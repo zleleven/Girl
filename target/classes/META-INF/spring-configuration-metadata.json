@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.imooc.properties.GirlProperties",
+      "name": "girl",
+      "type": "com.imooc.properties.GirlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.imooc.properties.GirlProperties",
+      "defaultValue": 0,
+      "name": "girl.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.imooc.properties.GirlProperties",
+      "name": "girl.cup-size",
+      "type": "java.lang.String"
+    }
+  ]
+}

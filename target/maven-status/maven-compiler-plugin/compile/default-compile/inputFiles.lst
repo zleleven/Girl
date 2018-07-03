@@ -1,0 +1,13 @@
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/controller/GirlController.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/enums/ResultEnum.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/handle/ExceptionHandle.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/Exception/GirlException.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/service/GirlService.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/properties/GirlProperties.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/domain/Result.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/aspect/HttpAspect.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/GirlApplication.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/domain/Girl.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/repository/GirlRepository.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/utils/ResultUtil.java
+/Users/eleven/Documents/springbootworkspace/girl/src/main/java/com/imooc/controller/HelloController.java
